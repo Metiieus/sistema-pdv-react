@@ -50,7 +50,7 @@
     "cmdk": "^1.1.1",
     "concurrently": "^9.1.2",
     "cross-env": "^7.0.3",
-    "date-fns": "^4.1.0",
+    "date-fns": "^3.6.0",
     "electron": "^36.5.0",
     "electron-builder": "^26.0.12",
     "embla-carousel-react": "^8.6.0",
